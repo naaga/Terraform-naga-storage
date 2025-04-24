@@ -6,3 +6,4 @@ resource "azurerm_storage_account" "sa1" {
   account_replication_type = "LRS"
 }
 
+
